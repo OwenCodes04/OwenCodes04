@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OwenCodes04
-- 👀 I’m interested in learning front-end development with the goal of eventually doing backend work
-- 🌱 I’m currently learning HTML
+- 👀 I’m a front-end developer with the goal of doing full-stack
+- 🌱 I’m currently learning React Native
 - 📫 You can reach me at owenbmullins@gmail.com
 
 <!---
